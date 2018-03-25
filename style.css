@@ -1,0 +1,30 @@
+body {
+background-size: cover; 
+}
+
+ #test {
+ 	position: fixed;
+ 	margin-left: 350px;
+} 
+
+#test2 {
+	position: fixed;
+	margin-left: 650px;
+}
+
+#test3 {
+	position: fixed;
+	margin-left: 850px;
+	} 
+
+
+#block {
+	position: fixed;
+	top:500px;
+   }
+
+#stop {
+	background: red; 
+    position: relative; 
+    top: 500px; 
+   }
